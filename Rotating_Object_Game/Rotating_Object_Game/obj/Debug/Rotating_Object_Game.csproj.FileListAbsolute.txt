@@ -1,0 +1,10 @@
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\bin\Debug\Rotating_Object_Game.exe.config
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\bin\Debug\Rotating_Object_Game.exe
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\bin\Debug\Rotating_Object_Game.pdb
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\obj\Debug\Rotating_Object_Game.csproj.AssemblyReference.cache
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\obj\Debug\Rotating_Object_Game.Form1.resources
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\obj\Debug\Rotating_Object_Game.Properties.Resources.resources
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\obj\Debug\Rotating_Object_Game.csproj.GenerateResource.cache
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\obj\Debug\Rotating_Object_Game.csproj.CoreCompileInputs.cache
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\obj\Debug\Rotating_Object_Game.exe
+C:\Users\Kübra\source\GitHub\Rotating_Object_Game\Rotating_Object_Game\Rotating_Object_Game\obj\Debug\Rotating_Object_Game.pdb
